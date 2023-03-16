@@ -1,6 +1,6 @@
 # Desafio de projeto da Formação Java Developer da [DIO](https://dio.me)
 
-## Simulando Uma Conta Bancária Através Do Terminal/Console
+### Simulando Uma Conta Bancária Através Do Terminal/Console
 
 #### Aluno
 - [Pinheiro Júnior](https://github.com/jpmjunior)
